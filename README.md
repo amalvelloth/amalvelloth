@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalvelloth&label=Profile%20views&color=0e75b6&style=flat" alt="amalvelloth" /> </p>
 
-- 🌱 I’m currently learning **React JS**
-
 - 🤝 I’m interested in **Web Development**
+
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **React,JavaScript,CSS,HTML**
 
