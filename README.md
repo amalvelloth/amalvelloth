@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, React Native, JavaScript, CSS, HTML**
 
-- 📫 How to reach me? :**amalv414@gmail.com**
+- 📫 How to reach me? :**amalv414@gmail.com**, https://www.linkedin.com/in/amal-v-354356310/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
