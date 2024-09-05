@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amal V</h1>
-<h3 align="center">Full stack web application dev💻</h3>
+<h1 align="left">Hi 👋, I'm Amal V</h1>
+<h3 align="left">Full stack web application dev💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalvelloth&label=Profile%20views&color=0e75b6&style=flat" alt="amalvelloth" /> </p>
 
