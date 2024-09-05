@@ -10,7 +10,7 @@
 
 **`MERN Stack Developer (Web designer/ReactJS/Angular)`**
 
-### Full stack web application dev 🧑‍💻🌐
+### Full stack web app dev 🧑‍💻🌐
 
 
 🔭 Currently working on:  Learning the MERN stack and Angular to strengthen frontend and backend skills.<br><br>🤝 Looking to collaborate on:  Projects involving the MERN stack or Angular for hands-on experience. Creative UI/UX design projects that utilize responsive design and animations.<br><br>🌱 Learning:  The MERN stack, including MongoDB, Express.js, React, and Node.js.<br>Angular, including its components, services.<br><br>💭 Ask me about: 
