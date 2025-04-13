@@ -13,7 +13,7 @@
 ### Full stack web app dev 🧑‍💻🌐
 
 
-🔭 Currently working on:  Frontend Development.<br><br>🤝 Looking to collaborate on:  Projects involving the MERN stack or Angular for hands-on experience. Creative UI/UX design projects that utilize responsive design and animations.<br><br>🌱 Learning:  Completed Full-Stack development including MongoDB, Express.js, React, and Node.js.<br>Angular, including its components, services.<br><br>💭 Ask me about: 
+🔭 Currently working as:  Frontend Development.<br><br>🤝 Looking to collaborate on:  Projects involving the MERN stack or Angular for hands-on experience. Creative UI/UX design projects that utilize responsive design and animations.<br><br>🌱 Learning:  Completed Full-Stack development including MongoDB, Express.js, React, and Node.js.<br>Angular, including its components, services.<br><br>💭 Ask me about: 
  Frontend/backend, Frameworks, Animations libraries, responsive design, and UI/UX.<br><br>⚡ Fun fact:  I love experimenting with different web design trends and enjoy combining creativity with clean and functional code to enhance ultimate user experience!!<br><br><br>
 
 
