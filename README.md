@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Amal+V!;" />
 </h1>
 
-**`MERN Stack Developer (Web designer/ReactJS/Angular)`**
+**`MERN Stack Developer (UI/UX/ReactJS/Angular)`**
 
 ### Full stack web app dev 🧑‍💻🌐
 
